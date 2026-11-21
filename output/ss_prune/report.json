@@ -1,0 +1,64 @@
+{
+  "source": "a-prune64.png",
+  "image_width": 1536,
+  "image_height": 1024,
+  "mode": "alpha",
+  "detected_count": 5,
+  "sprites": [
+    {
+      "id": 1,
+      "x": 105,
+      "y": 66,
+      "width": 387,
+      "height": 383,
+      "area": 141480,
+      "center_x": 298,
+      "center_y": 257,
+      "output": null
+    },
+    {
+      "id": 2,
+      "x": 575,
+      "y": 66,
+      "width": 387,
+      "height": 383,
+      "area": 141971,
+      "center_x": 768,
+      "center_y": 257,
+      "output": null
+    },
+    {
+      "id": 3,
+      "x": 1045,
+      "y": 65,
+      "width": 387,
+      "height": 384,
+      "area": 142170,
+      "center_x": 1238,
+      "center_y": 257,
+      "output": null
+    },
+    {
+      "id": 4,
+      "x": 325,
+      "y": 533,
+      "width": 390,
+      "height": 385,
+      "area": 143819,
+      "center_x": 520,
+      "center_y": 725,
+      "output": null
+    },
+    {
+      "id": 5,
+      "x": 822,
+      "y": 534,
+      "width": 389,
+      "height": 385,
+      "area": 143320,
+      "center_x": 1016,
+      "center_y": 726,
+      "output": null
+    }
+  ]
+}
